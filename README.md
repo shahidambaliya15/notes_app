@@ -102,8 +102,7 @@ shared_preferences: ^2.2.2
 
 <img width="1594" height="900" alt="image" src="https://github.com/user-attachments/assets/7ccf85c4-b75a-43ea-85e6-bf69e17634eb" />
 <img width="1595" height="900" alt="image" src="https://github.com/user-attachments/assets/e0e86d66-be0f-447a-b496-2d1611e50be8" />
-
-<img width="1598" height="900" alt="image" src="https://github.com/user-attachments/assets/5a236055-3796-4575-9a2b-1e16a8899ce1" />
+<img width="1600" height="893" alt="image" src="https://github.com/user-attachments/assets/68ca2324-dedf-4b2e-aba3-c4dbf11888db" />
 
 <img width="1598" height="900" alt="image" src="https://github.com/user-attachments/assets/e22c6d03-451d-47ef-ba8a-efeac274cbc3" />
 
